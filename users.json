@@ -1,0 +1,49 @@
+[
+  {
+    "users2": {
+      "id": 2,
+      "companyName": "ABC Company",
+      "employees": [
+        "A",
+        "B",
+        "C"
+      ],
+      "positions": [
+        "Position X",
+        "Position Y",
+        "Position Z"
+      ],
+      "location": "Digos"
+    },
+    "users3": {
+      "id": 3,
+      "companyName": "Normal Company",
+      "employees": [
+        "John Doe",
+        "Jane Smith",
+        "Bob Johnson"
+      ],
+      "positions": [
+        "Manager",
+        "Developer",
+        "Designer"
+      ],
+      "location": "Cebu"
+    },
+    "users4": {
+      "id": 4,
+      "companyName": "Mid Company",
+      "employees": [
+        "Top",
+        "Mid",
+        "Bot"
+      ],
+      "positions": [
+        "Engineer",
+        "Analyst",
+        "Technician"
+      ],
+      "location": "Bermuda"
+    }
+  }
+]
